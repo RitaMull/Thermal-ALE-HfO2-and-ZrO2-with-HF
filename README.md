@@ -3,4 +3,4 @@
  
  Each folder contains the CONTCAR, INCAR, KPOINTS and POTCAR for each system 
  
- The models of the bare surfaces for HfO2 and ZrO2 are found in HfO2-bare and ZrO2-bare respectively
+ The models of the bare surfaces for HfO2 and ZrO2 are found in the folders HfO2-bare and ZrO2-bare respectively
