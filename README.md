@@ -7,4 +7,4 @@ The models of the bare surfaces for HfO2 and ZrO2 are found in the folders HfO2-
  
 The self-limiting product models 8O:16F, 12O:24F and 16O:32F for HfO2 and ZrO2 are found in the respective folders.  
  
-For each metal oxide three different configurations (A, B and C) were examined for the range of HF coverages using 2, 3, 4, 5 and 8    molecules per supercell and two configurations (A and B) using 12 and 16 molecules per supercell and one configuration for 30, 32 and 34 molecules per supercell.
+For HfO2 and ZrO2 three different configurations (A, B and C) were examined for the range of HF coverages using 2, 3, 4, 5 and 8    molecules per supercell and two configurations (A and B) using 12 and 16 molecules per supercell and one configuration for 30, 32 and 34 molecules per supercell. The folders are named after their configurations for example, 2 HF on HfO2 at configuration B can be found in HfO2-2HF-B
